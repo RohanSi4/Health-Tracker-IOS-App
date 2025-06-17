@@ -13,7 +13,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            Text("Health Tracker")
+            Text("Health Tracker Goated App")
                 .font(.largeTitle)
                 .padding()
         }
